@@ -1,0 +1,34 @@
+Q.1. Identify FRs and NFRs:
+-> Functional requirments:
+  1.) Include a new book's details in the catalogue.
+  2.) Authentication and authorization both require user login.
+  3.) Update the information on the returned book and make it available for reissue.
+  4.) Adding and removing data on pupils and other institute staff.
+  5.) Create a helpful database to enable    the most effective book search functionality.
+  6.)Adding information about the staff or students in regard to the book that was issued.
+  7. Explain the book's details to the student/member,like including its title and the due date for returns.
+  8.) Introducing LAN security . 
+  9.) listing and limiting issues on books for specific user.
+  10.) Adding the details about shelf location with book title.
+
+->Non functional requirments:
+  1.) notify about new arrivials and versions of book via mail.
+  2.) System dependability owing to database and application synchronisation.
+  3.) Security:User authentication neccessry to excess vie LAN to maintain integrity and security.
+  4.) The system's ability to scale is impacted by its capacity to handle a lot of traffic.
+  5.) Constructing a sizable system for both books and user data may have an impact on performance.
+  6.) maintainability of software 
+  7.) flexible and easy to use for user with faster responce time.
+Q.2. Identify scope, features and non-functional aspects of the following problem.
+  The product has a lot of potential in the modern period since it can assist disabled people, whose population is large and who this innovation is assisting by resolving urgently pressing concerns.
+->Feartures:
+  The features are made available through a mobile application so that almost everyone can use them.
+  The software makes use of artificial intelligence to identify problems that are present in the area and carry out necessary tasks.
+  The technology utilised in the backend will identify significant sound events of interest to the community, such as car horns and other sounds, where immediate alerts will be processed and the user informed.
+  The software takes inputs from the user's surroundings rather than any input from the user.
+  Because of its low latency, the software can alert the user as quickly as feasible.
+->Nonfunctional features
+  processed unwanted results as a result of pointless inputs.
+  New features should be maintainable, user-friendly, and straightforward to use.
+  Scalability and efficiency.
+  Availability, Reliability, and Security.
